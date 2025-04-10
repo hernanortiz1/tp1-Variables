@@ -8,5 +8,5 @@ if(precio > 1000){
     precioDescuento = precio*0.85;
     document.writeln("Precio: "+ precio + " con 15% de descuento "+ precioDescuento.toFixed(2));
 } else{
-    document.writeln("El precio ingresado a menor a 1000");
+    document.writeln("El precio ingresado es menor a 1000");
 }
