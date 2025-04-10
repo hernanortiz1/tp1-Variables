@@ -2,5 +2,5 @@
 realizar la suma de ambos y mostrar el resultado.
  */
 
-const numero1 = parseInt(prompt("Ingrese primer número")), numero2 = parseInt(prompt("Ingrese psegundo número"));
+const numero1 = parseInt(prompt("Ingrese primer número")), numero2 = parseInt(prompt("Ingrese segundo número"));
  document.writeln("La suma de los números es: ", numero1+numero2);
