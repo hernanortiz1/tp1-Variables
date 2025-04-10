@@ -2,9 +2,5 @@
 realizar la suma de ambos y mostrar el resultado.
  */
 
-let edad = parseInt(prompt("Ingresa tu edad"));
-if(edad >= 18){
-    document.writeln("Mayor de edad");
-} else{
-    document.writeln("No es mayor de edad");
-}
+const numero1 = parseInt(prompt("Ingrese primer número")), numero2 = parseInt(prompt("Ingrese psegundo número"));
+ document.writeln("La suma de los números es: ", numero1+numero2);
