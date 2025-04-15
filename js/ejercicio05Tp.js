@@ -3,4 +3,4 @@ escriba el resultado de sumar estos dos números. */
 
 const numero1 = parseInt(prompt("Ingrese primer número"));
 const numero2 = parseInt(prompt("Ingrese segundo número"));
- document.writeln("La suma de los números es: ", numero1+numero2);
+document.writeln("La suma de los números es: ", numero1 + numero2);
